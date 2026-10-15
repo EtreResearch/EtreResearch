@@ -31,9 +31,3 @@ React · Flutter · Android Studio
 Open to engineering opportunities and collaboration.
 
 [Get in touch](mailto:sandeshr1515@gmail.com)
-
-```text
-   [o_o]
-  /|___|\
-    | |
-```
