@@ -25,9 +25,3 @@ Python · TypeScript · SQL · Dart · Go
 </p>
 
 React · Flutter · Android Studio
-
----
-
-Open to engineering opportunities and collaboration.
-
-[Get in touch](mailto:sandeshr1515@gmail.com)
